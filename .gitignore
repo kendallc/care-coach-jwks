@@ -1,0 +1,7 @@
+# IMPORTANT: Never commit private keys!
+*.pem
+*.key
+*private*
+
+# OS files
+.DS_Store
